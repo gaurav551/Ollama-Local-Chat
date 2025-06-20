@@ -46,7 +46,7 @@ A **modern, responsive web interface** for chatting with local AI models through
 
 1. **Download the HTML file**
    ```bash
-   curl -O https://raw.githubusercontent.com/yourusername/ollama-chat-interface/main/ollama-chat.html
+   git clone https://github.com/gaurav551/Ollama-Local-Chat.git
    ```
 
 2. **Start Ollama with CORS enabled**
@@ -169,7 +169,7 @@ Open browser Developer Tools (F12) to see detailed error messages and network re
 ### System Requirements
 | Model Size | RAM Required | Response Time |
 |------------|--------------|---------------|
-| 7B | 8GB+ | ~2-5 seconds |
+| 7B | 4GB+ | ~2-5 seconds |
 | 13B | 16GB+ | ~5-10 seconds |
 | 70B | 64GB+ | ~15-30 seconds |
 
@@ -219,8 +219,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/ollama-chat-interface/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/ollama-chat-interface/discussions)
+- **Issues:** [GitHub Issues](https://github.com/gaurav551/Ollama-Local-Chat/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/gaurav551/Ollama-Local-Chat/discussions)
 - **Ollama Support:** [Ollama Documentation](https://github.com/ollama/ollama)
 
 ---
